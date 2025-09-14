@@ -1,0 +1,24 @@
+.class{
+    margin-top: 15%;
+}
+.class button {
+    font-size: 20px;
+    font-weight: 400;
+    border: none;
+    padding: 6% 25%;
+    margin: 10PX;
+    margin-left:25%;
+    margin-right: 10%;
+    border-radius: 50px;
+    background-color: rgb(51, 255, 51);
+}
+
+@media (max-width: 426px){
+    .class {
+        margin-top: 35%;
+    }
+
+    .class button{
+        margin-left: 15%;
+    }
+}
